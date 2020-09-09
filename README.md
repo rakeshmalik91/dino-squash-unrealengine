@@ -1,4 +1,4 @@
-# README #
+# Dino Squash #
 
 ## Get Started ##
 * Install Unreal Engine 4.9.0
