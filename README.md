@@ -1,5 +1,9 @@
 # Dino Squash #
 
+## Executable ##
+<img src="https://lh3.googleusercontent.com/f8NKHMXtDfGPp791y-SgM0kDSgUlY4eUAF_Z2ntACQykc1FLNr3rIrvMuT0T6IqU34w=s180-rw"/>
+https://play.google.com/store/apps/details?id=com.freespirit.dinosquash
+
 ## Get Started ##
 * Install Unreal Engine 4.9.0
 * Run "DinoHunt.uproject" file
