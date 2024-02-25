@@ -9,3 +9,7 @@ Saved
 *.xcodeproj
 *.DS_Store
 Package
+
+*.aab
+*.apk
+Android_ASTC

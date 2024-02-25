@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.anonymous.DinoHunt;
+package com.RakeshMalik.DinoHunt2;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.anonymous.DinoHunt.AlarmReceiver.class.getName();
+        return com.RakeshMalik.DinoHunt2.AlarmReceiver.class.getName();
     }
 }

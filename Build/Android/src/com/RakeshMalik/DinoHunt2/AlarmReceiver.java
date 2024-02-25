@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.anonymous.DinoHunt;
+package com.RakeshMalik.DinoHunt2;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

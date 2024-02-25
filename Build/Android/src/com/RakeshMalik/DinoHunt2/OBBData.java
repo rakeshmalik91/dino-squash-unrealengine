@@ -1,7 +1,9 @@
-package com.anonymous.DinoHunt;
+package com.RakeshMalik.DinoHunt2;
 
 public class OBBData
 {
+public static final String AppType = "";
+
 public static class XAPKFile {
 public final boolean mIsMain;
 public final String mFileVersion;
@@ -17,7 +19,7 @@ public static final XAPKFile[] xAPKS = {
 new XAPKFile(
 true, // true signifies a main file
 "1", // the version of the APK that the file was uploaded against
-21377986L // the length of the file in bytes
+28094769L // the length of the file in bytes
 )
 };
 };
